@@ -1,0 +1,5 @@
+codigo= int(input("Digite seu número\n"))
+valor=int(input("Qual é o valor que você recebe por cada hora trabalhada?\n"))
+horas= int(input("Quantas horas você trabalhou neste mês?\n"))
+salario= float(valor*horas)
+print(f'{codigo} este é seu salário {salario}!')

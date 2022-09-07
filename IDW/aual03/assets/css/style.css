@@ -1,0 +1,119 @@
+body {
+    background-color: rgb(246, 236, 235)
+}
+
+.tudo {
+    border-right: solid rgb(148, 19, 66);
+    width: 60%;
+    height: 100%;
+    border: solid 1px color none
+}
+
+.titulo {
+    border: solid 1px color none;
+    padding: 0% 40%
+}
+
+.foto {
+    width: 20%;
+    float: right;
+    clear: both;
+}
+
+#foto {
+    width: 180px;
+    float: left;
+    border-radius: 50%;
+}
+
+.nome {
+    border: solid color none;
+    text-align: left;
+    background-color: rgb(148, 19, 66);
+    width: 100%;
+}
+
+h1 {
+    color: rgb(148, 19, 66);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#nome {
+    color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.pessoais {
+    border-bottom: solid rgb(148, 19, 66);
+    width: 80%;
+    height: 150px;
+    float: left;
+}
+
+img {
+    width: 17px;
+}
+
+.academicas {
+    padding: 35% 0%;
+    width: 80%;
+    padding: 1% 0%;
+    border-bottom: solid rgb(148, 19, 66);
+
+
+
+}
+
+.hability {
+    width: 40%;
+    float: under;
+
+
+}
+
+.complementares {
+    padding: 0% 0%;
+    height: 50;
+    border-bottom: solid rgb(148, 19, 66);
+    float: right;
+    width: 100%;
+
+}
+
+.profissional {
+    padding: 1% 0%;
+    width: 100%;
+    border-bottom: solid rgb(148, 19, 66);
+    float: right;
+    width: 100%;
+    clear: both;
+}
+
+.objetivo {
+    float: right;
+    width: 100%;
+    clear: both;
+}
+
+.direita {
+    width: 40%;
+    float: right;
+    clear: both;
+    border-left: solid rgb(148, 19, 66);
+    padding: 0% 5%;
+}
+
+#tabequi {
+    border-top: 15px dotted rgb(148, 19, 66);
+    width: 70%;
+}
+
+#problema {
+    border-top: 15px dotted rgb(148, 19, 66);
+    width: 90%;
+}
+
+#cliente {
+    border-top: 15px dotted rgb(148, 19, 66);
+    width: 80%;
+}

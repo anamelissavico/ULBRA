@@ -1,0 +1,5 @@
+n1=int(input('Digite um número:\n'))
+n2=int(input('Digite outro número:\n'))
+n3=int(input('Digite o último número\n'))
+media=float((n1+n2+n3)/3)
+print(f'A média deles é {media}.')
