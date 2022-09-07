@@ -1,1 +1,2 @@
 # ULBRA
+Neste repositório estão todos os trabalhos e atividades realizados no percorrer do primeiro semestre do curso de Análise e Desenvolvimento de Sistemas. As linguagens de programação que aprenderemos neste semestre serão: Phyton, JavaScript e a linguagem de marcação HTML, juntamente com CSS. Fique à vontade para conhecer um pouco do meu trabalho!
