@@ -1,0 +1,4 @@
+
+
+
+peso=int(input('peso'))
